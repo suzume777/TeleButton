@@ -1,2 +1,3 @@
 # TeleButton
-a demon teleport button addon for World of Warcraft
+A Demonic Gateway Button Addon for World of Warcraft
+
