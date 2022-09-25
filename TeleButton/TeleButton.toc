@@ -1,0 +1,9 @@
+﻿## Interface: 90100
+## Title: |cff00ffffTele|rButton
+## Title-zhCN: |cff00ffffTele|rButton 传送门焦点大按钮
+## Notes: Show a big button for focuse Demonic Gateway.
+## Notes-zhCN: 将传送门设为焦点后显示巨大的框体方便指向互动键
+## Version: R1.2
+## X-Credits: HopeASD, Paopao001
+
+TeleButton.lua
